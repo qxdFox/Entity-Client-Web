@@ -815,7 +815,6 @@ window.addEventListener('resize', () => {
 const SETTINGS_PAGES_BASE_PATH = 'assets/setting_pages';
 const SETTINGS_PAGES = [
     { file: 'Settings.png', label: 'Settings' },
-    { file: 'Visual.png', label: 'Visual' },
     { file: 'Warlist.png', label: 'Warlist' },
     { file: 'Status bar.png', label: 'Status Bar' },
     { file: 'Bindwheel.png', label: 'Bindwheel' },
